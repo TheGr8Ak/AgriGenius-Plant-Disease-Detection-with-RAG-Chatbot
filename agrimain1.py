@@ -755,7 +755,7 @@ def main():
         print(Fore.GREEN + "Model already exists.")
 
     # Launch Gradio interface
-    os.environ["HUGGINGFACEHUB_API_TOKEN"] = "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"
+    os.environ["HUGGINGFACEHUB_API_TOKEN"] = "" #ur huggingface api token
     demo = create_integrated_interface()
     demo.launch(share=True)  # share=True creates a public link
 
