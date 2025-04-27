@@ -2,7 +2,7 @@
 
 This project aims to create a **real-time agricultural plant disease detection system** that identifies diseases in various plant species from images of their leaves. The system processes images using a **custom CNN with ResNet-inspired architecture** and provides detailed information and advice on detected diseases through an integrated **Retrieval-Augmented Generation (RAG) chatbot**.
 
-![AgriGenius Interface Placeholder Image](/api/placeholder/800/400)
+Screenshot 2025-03-17 201620.png
 
 This is the Gradio interface where users can upload plant images for disease detection.
 
